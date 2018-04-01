@@ -1,5 +1,9 @@
 language: cpp
 compiler: gcc
 script: bash ./travis/test.sh
+addons:
+  apt:
+    packages:
+      - libuv-dev
 dist: trusty
 sudo: required

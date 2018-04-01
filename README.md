@@ -5,6 +5,12 @@ Use JS modules in Dart.
 Because I can.
 
 ## Installation
+First, install `libuv`.
+On ubuntu, run the following.
+```bash
+$ sudo apt install libuv-dev
+```
+
 Add the following to your `pubspec.yaml`
 ```yaml
 dependencies:
