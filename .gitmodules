@@ -1,0 +1,3 @@
+[submodule "jxcore"]
+	path = jxcore
+	url = https://github.com/require-x/jxcore.git

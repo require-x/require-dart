@@ -1,0 +1,5 @@
+language: cpp
+compiler: gcc
+script: bash ./travis/test.sh
+dist: trusty
+sudo: required
