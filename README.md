@@ -1,4 +1,4 @@
-# require-dart
+# require-dart [![Build Status](https://travis-ci.org/require-x/require-dart.svg?branch=master)](https://travis-ci.org/require-x/require-dart)
 Use JS modules in Dart.
 
 ## Why?
